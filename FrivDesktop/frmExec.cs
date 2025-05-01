@@ -40,8 +40,7 @@ namespace FrivDesktop
             // Salvando o arquivo SWF em um diretório temporário
             string caminhoTemporario = Path.Combine(Path.GetTempPath(), "_temp.swf");
             File.WriteAllBytes(caminhoTemporario, swfBytes);
-
-            // Agora você pode usar o caminho para carregar o arquivo no WebBrowser
+            
             webBrowserPrincipal.Navigate(caminhoTemporario);
         }
 
