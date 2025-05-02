@@ -9,11 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Data.SqlTypes;
+using System.Security.Cryptography;
 
 namespace FrivDesktop
 {
     public partial class frmExec : Form
-    {        
+    {
+        // SWFs aqui https://github.com/arichornlover/FrivReborn/tree/gh-pages/games
         private string game;
         private byte[] swfBytes;
         public frmExec(string game, string title)
@@ -25,6 +27,9 @@ namespace FrivDesktop
 
         private void frmExec_Load(object sender, EventArgs e)
         {            
+            axShockwaveFlash1.AllowFullScreen = "true";
+            axShockwaveFlash1.AllowScriptAccess = "always";
+
             switch (game)
             {
                 case "FormulaRacer2012":
@@ -40,8 +45,11 @@ namespace FrivDesktop
             // Salvando o arquivo SWF em um diretório temporário
             string caminhoTemporario = Path.Combine(Path.GetTempPath(), "_temp.swf");
             File.WriteAllBytes(caminhoTemporario, swfBytes);
-            
-            webBrowserPrincipal.Navigate(caminhoTemporario);
+
+            //webBrowserPrincipal.Navigate(caminhoTemporario);
+
+            axShockwaveFlash1.Movie = caminhoTemporario;
+            axShockwaveFlash1.Play();
         }
 
         private void frmExec_FormClosing(object sender, FormClosingEventArgs e)
@@ -54,6 +62,9 @@ namespace FrivDesktop
                 {
                     File.Delete(caminhoSWF); // Remove o arquivo temporário
                 }
+
+                axShockwaveFlash1.Rewind();
+                axShockwaveFlash1.Stop();
                 //MessageBox.Show("Arquivo excluído com sucesso!");
             }
             catch (Exception ex)
