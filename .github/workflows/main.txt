@@ -1,5 +1,5 @@
 name: .NET Core Desktop Build
-
+# Isso não pode ser utilizado pois o Actions não tem suporte à ActiveX e outros componentes internos do Windows
 on:
   workflow_dispatch:
   push:
