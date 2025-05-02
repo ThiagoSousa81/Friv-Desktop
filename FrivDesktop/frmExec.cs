@@ -36,15 +36,99 @@ namespace FrivDesktop
             {
                 case "Formula Racer 2012":
                     // Obtendo os bytes do arquivo SWF a partir dos recursos
-                    swfBytes = Properties.Resources.FormulaRacer2012;                    
+                    swfBytes = Properties.Resources.formula_racer_2012;
                     break;
                 case "TU-95":
-                    swfBytes = Properties.Resources.tu95;
+                    swfBytes = Properties.Resources.tu_95;
+                    break;
+                case "Aagrh":
+                    swfBytes = Properties.Resources.aargh;
+                    break;
+                case "Tractor Mania":
+                    swfBytes = Properties.Resources.tractor_mania;
+                    break;
+                case "Car Eat's Car 2 - Deluxe":
+                    swfBytes = Properties.Resources.car_eats_car_2_deluxe;
+                    break;
+                case "Ace Gangster":
+                    swfBytes = Properties.Resources.ace_gangster;
+                    break;
+                case "Ace Gangster Taxi":
+                    swfBytes = Properties.Resources.ace_gangster_taxi;
+                    break;
+                case "Alien Attack Team":
+                    swfBytes = Properties.Resources.alien_attack_team;
+                    break;
+                case "Bridge Tactics":
+                    swfBytes = Properties.Resources.bridge_tactics;
+                    break;
+                case "Bridge Tatics 2":
+                    swfBytes = Properties.Resources.bridge_tactics_2;
+                    break;
+                case "Car Eat's Car 3 - Twisted Dreams":
+                    swfBytes = Properties.Resources.car_eats_car_3_twisted_dreams;
+                    break;
+                case "Civiballs":
+                    swfBytes = Properties.Resources.civiballs;
+                    break;
+                case "Dynamite Train":
+                    swfBytes = Properties.Resources.dynamite_train;
+                    break;
+                case "Feed Us 4":
+                    swfBytes = Properties.Resources.feed_us_4;
+                    break;
+                case "Feed Us 4 - Xmas":
+                    swfBytes = Properties.Resources.feed_us_4_xmas_xpend;
+                    break;
+                case "Fever For Speed":
+                    swfBytes = Properties.Resources.feverforspeed;
+                    break;
+                case "Freeway Fury 2":
+                    swfBytes = Properties.Resources.freeway_fury_2;
+                    break;
+                case "Bloxorz":
+                    swfBytes = Properties.Resources.flash_bloxorz;
+                    break;
+                case "Haunt The House":
+                    swfBytes = Properties.Resources.haunt_the_house;
+                    break;
+                case "Jack Smith":
+                    swfBytes = Properties.Resources.jacksmith;
+                    break;
+                case "King's Rush":
+                    swfBytes = Properties.Resources.kings_rush;
+                    break;
+                case "Mega Miner":
+                    swfBytes = Properties.Resources.mega_miner;
+                    break;
+                case "Scrap Metal Heroes":
+                    swfBytes = Properties.Resources.scrap_metal_heroes;
+                    break;
+                case "Sky Serpents":
+                    swfBytes = Properties.Resources.skyserpents;
+                    break;
+                case "Stunt Master":
+                    swfBytes = Properties.Resources.stunt_master;
+                    break;
+                case "The Heist":
+                    swfBytes = Properties.Resources.the_heist;
+                    break;
+                case "Urban Unrest":
+                    swfBytes = Properties.Resources.urban_unrest;
+                    break;
+                case "Zombotron":
+                    swfBytes = Properties.Resources.zombotron;
+                    break;
+                case "Zombotron 2":
+                    swfBytes = Properties.Resources.zombotron2;
+                    break;
+                case "Zombotron 2 - Time Machine":
+                    swfBytes = Properties.Resources.zombotron2_time_machine;
                     break;
                 default:
                     MessageBox.Show("Jogo não encontrado!", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     this.Close();
-                    break;  
+                    return; // Evita continuar com o código                            
             }
 
             // Salvando o arquivo SWF em um diretório temporário

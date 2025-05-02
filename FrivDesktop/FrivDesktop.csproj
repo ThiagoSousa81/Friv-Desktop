@@ -198,5 +198,92 @@
   <ItemGroup>
     <None Include="Resources\tu95.swf" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7055-car-eats-car-2-deluxe.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000096-tractorman.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aargh.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceGangster.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acegangstertaxi.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien-attack-team.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bridge_tactics.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bridge-tactics-2.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Car-Eats-Car-3-Twisted-Dreams.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\civiballs.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dynamite train.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Feed-us-4.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Feed-us-4-Xmas-xpend.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feverforspeed.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FF2.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_bloxorz.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haunt-the-house.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jacksmith.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kings-game-13372.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kings-rush.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mega-miner.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scrap-metal-heroes-10205.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skyserpents.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stunt-master-www-kidsgamegame-com.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the_heist_johnnytwoshoes.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\urban-unrest-1525858046.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\625607_Z2TimeMachine.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zombotron,Ak,.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zombotron2,ak,.swf" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

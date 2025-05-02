@@ -118,10 +118,94 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="FormulaRacer2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="aargh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Aargh.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ace-gangster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AceGangster.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ace-gangster-taxi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acegangstertaxi.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="alien_attack_team" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\alien-attack-team.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="bridge_tactics" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bridge_tactics.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="bridge_tactics_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bridge-tactics-2.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="car-eats-car-2-deluxe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7055-car-eats-car-2-deluxe.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="car_eats_car_3_twisted_dreams" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Car-Eats-Car-3-Twisted-Dreams.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="civiballs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\civiballs.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dynamite_train" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dynamite train.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="feed_us_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Feed-us-4.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="feed_us_4_xmas_xpend" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Feed-us-4-Xmas-xpend.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="feverforspeed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\feverforspeed.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="flash_bloxorz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash_bloxorz.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="formula-racer-2012" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FormulaRacer2012.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tu95" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="freeway-fury-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FF2.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="haunt_the_house" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\haunt-the-house.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="jacksmith" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jacksmith.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kings_rush" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kings-rush.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mega_miner" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mega-miner.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="scrap_metal_heroes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scrap-metal-heroes-10205.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="skyserpents" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skyserpents.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="stunt_master" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stunt-master-www-kidsgamegame-com.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="the_heist" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\the_heist_johnnytwoshoes.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tractor-mania" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1000096-tractorman.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tu-95" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tu95.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="urban_unrest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\urban-unrest-1525858046.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="zombotron" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zombotron,Ak,.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="zombotron2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zombotron2,ak,.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="zombotron2-time-machine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\625607_Z2TimeMachine.swf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

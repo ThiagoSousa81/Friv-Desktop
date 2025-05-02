@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Reflection;
 using System.Windows.Forms;
+using System.Security.Policy;
 
 namespace FrivDesktop
 {
@@ -23,8 +25,16 @@ namespace FrivDesktop
         {
             string game = cboGame.Text;
             frmExec exec = new frmExec(game);
-            exec.ShowDialog();
-            
+            exec.ShowDialog();            
+        }
+
+        private void btnHelp_Click(object sender, EventArgs e)
+        {
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = "https://github.com/ThiagoSousa81/Friv-Desktop",
+                UseShellExecute = true // Necessário para abrir URLs no navegador padrão
+            });
         }
     }
 }

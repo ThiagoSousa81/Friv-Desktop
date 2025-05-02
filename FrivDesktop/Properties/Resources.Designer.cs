@@ -63,9 +63,9 @@ namespace FrivDesktop.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Byte[].
         /// </summary>
-        internal static byte[] FormulaRacer2012 {
+        internal static byte[] aargh {
             get {
-                object obj = ResourceManager.GetObject("FormulaRacer2012", resourceCulture);
+                object obj = ResourceManager.GetObject("aargh", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -73,9 +73,289 @@ namespace FrivDesktop.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Byte[].
         /// </summary>
-        internal static byte[] tu95 {
+        internal static byte[] ace_gangster {
             get {
-                object obj = ResourceManager.GetObject("tu95", resourceCulture);
+                object obj = ResourceManager.GetObject("ace-gangster", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] ace_gangster_taxi {
+            get {
+                object obj = ResourceManager.GetObject("ace-gangster-taxi", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] alien_attack_team {
+            get {
+                object obj = ResourceManager.GetObject("alien_attack_team", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] bridge_tactics {
+            get {
+                object obj = ResourceManager.GetObject("bridge_tactics", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] bridge_tactics_2 {
+            get {
+                object obj = ResourceManager.GetObject("bridge_tactics_2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] car_eats_car_2_deluxe {
+            get {
+                object obj = ResourceManager.GetObject("car-eats-car-2-deluxe", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] car_eats_car_3_twisted_dreams {
+            get {
+                object obj = ResourceManager.GetObject("car_eats_car_3_twisted_dreams", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] civiballs {
+            get {
+                object obj = ResourceManager.GetObject("civiballs", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] dynamite_train {
+            get {
+                object obj = ResourceManager.GetObject("dynamite_train", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] feed_us_4 {
+            get {
+                object obj = ResourceManager.GetObject("feed_us_4", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] feed_us_4_xmas_xpend {
+            get {
+                object obj = ResourceManager.GetObject("feed_us_4_xmas_xpend", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] feverforspeed {
+            get {
+                object obj = ResourceManager.GetObject("feverforspeed", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] flash_bloxorz {
+            get {
+                object obj = ResourceManager.GetObject("flash_bloxorz", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] formula_racer_2012 {
+            get {
+                object obj = ResourceManager.GetObject("formula-racer-2012", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] freeway_fury_2 {
+            get {
+                object obj = ResourceManager.GetObject("freeway-fury-2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] haunt_the_house {
+            get {
+                object obj = ResourceManager.GetObject("haunt_the_house", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] jacksmith {
+            get {
+                object obj = ResourceManager.GetObject("jacksmith", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] kings_rush {
+            get {
+                object obj = ResourceManager.GetObject("kings_rush", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] mega_miner {
+            get {
+                object obj = ResourceManager.GetObject("mega_miner", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] scrap_metal_heroes {
+            get {
+                object obj = ResourceManager.GetObject("scrap_metal_heroes", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] skyserpents {
+            get {
+                object obj = ResourceManager.GetObject("skyserpents", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] stunt_master {
+            get {
+                object obj = ResourceManager.GetObject("stunt_master", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] the_heist {
+            get {
+                object obj = ResourceManager.GetObject("the_heist", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] tractor_mania {
+            get {
+                object obj = ResourceManager.GetObject("tractor-mania", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] tu_95 {
+            get {
+                object obj = ResourceManager.GetObject("tu-95", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] urban_unrest {
+            get {
+                object obj = ResourceManager.GetObject("urban_unrest", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] zombotron {
+            get {
+                object obj = ResourceManager.GetObject("zombotron", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] zombotron2 {
+            get {
+                object obj = ResourceManager.GetObject("zombotron2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] zombotron2_time_machine {
+            get {
+                object obj = ResourceManager.GetObject("zombotron2-time-machine", resourceCulture);
                 return ((byte[])(obj));
             }
         }
