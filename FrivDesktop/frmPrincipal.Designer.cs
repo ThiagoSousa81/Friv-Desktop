@@ -73,8 +73,10 @@
             this.cboGame.Dock = System.Windows.Forms.DockStyle.Fill;
             this.cboGame.Font = new System.Drawing.Font("Lucida Console", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cboGame.FormattingEnabled = true;
+            this.cboGame.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.cboGame.Items.AddRange(new object[] {
-            "Fórmula Racer 2012"});
+            "Formula Racer 2012",
+            "TU-95"});
             this.cboGame.Location = new System.Drawing.Point(23, 23);
             this.cboGame.Name = "cboGame";
             this.cboGame.Size = new System.Drawing.Size(349, 35);

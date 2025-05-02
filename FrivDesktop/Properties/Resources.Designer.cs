@@ -63,9 +63,19 @@ namespace FrivDesktop.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Byte[].
         /// </summary>
-        internal static byte[] FormulaRacer2012_swf {
+        internal static byte[] FormulaRacer2012 {
             get {
-                object obj = ResourceManager.GetObject("FormulaRacer2012.swf", resourceCulture);
+                object obj = ResourceManager.GetObject("FormulaRacer2012", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] tu95 {
+            get {
+                object obj = ResourceManager.GetObject("tu95", resourceCulture);
                 return ((byte[])(obj));
             }
         }

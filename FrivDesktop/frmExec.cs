@@ -16,13 +16,15 @@ namespace FrivDesktop
     public partial class frmExec : Form
     {
         // SWFs aqui https://github.com/arichornlover/FrivReborn/tree/gh-pages/games
+        //private string game;
         private string game;
         private byte[] swfBytes;
-        public frmExec(string game, string title)
+        public frmExec(/*string game,*/ string game)
         {
             InitializeComponent();
+            //this.game = game;
+            this.Text = game + " - Friv Desktop";
             this.game = game;
-            this.Text = title + " - Friv Desktop";
         }
 
         private void frmExec_Load(object sender, EventArgs e)
@@ -32,10 +34,13 @@ namespace FrivDesktop
 
             switch (game)
             {
-                case "FormulaRacer2012":
+                case "Formula Racer 2012":
                     // Obtendo os bytes do arquivo SWF a partir dos recursos
-                    swfBytes = Properties.Resources.FormulaRacer2012_swf;                    
-                    break;  
+                    swfBytes = Properties.Resources.FormulaRacer2012;                    
+                    break;
+                case "TU-95":
+                    swfBytes = Properties.Resources.tu95;
+                    break;
                 default:
                     MessageBox.Show("Jogo não encontrado!", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     this.Close();

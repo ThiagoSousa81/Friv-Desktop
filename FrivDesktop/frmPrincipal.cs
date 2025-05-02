@@ -22,17 +22,9 @@ namespace FrivDesktop
         private void btnPlay_Click(object sender, EventArgs e)
         {
             string game = cboGame.Text;
-
-            switch (game)
-            {
-                case "Fórmula Racer 2012":
-                    frmExec exec = new frmExec("FormulaRacer2012", "Fórmula Racer 2012");
-                    exec.ShowDialog();
-                    break;
-                default:
-                    MessageBox.Show("Selecione um game para continuar!", "Friv Desktop", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    break;
-            }
+            frmExec exec = new frmExec(game);
+            exec.ShowDialog();
+            
         }
     }
 }
