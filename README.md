@@ -12,7 +12,7 @@ Friv Desktop - Offline
 [![GitHub forks](https://img.shields.io/github/forks/ThiagoSousa81/Friv-Desktop)](https://github.com/ThiagoSousa81/Friv-Desktop/network)
 ![GitHub contributors](https://img.shields.io/github/contributors/ThiagoSousa81/Friv-Desktop)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ThiagoSousa81/Friv-Desktop)](https://github.com/ThiagoSousa81/Friv-Desktop/commits/main)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ThiagoSousa81/Friv-Desktop/.github/workflows/main.yml?branch=master)](https://github.com/ThiagoSousa81/Friv-Desktop/actions)
+<!--[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ThiagoSousa81/Friv-Desktop/.github/workflows/main.yml?branch=master)](https://github.com/ThiagoSousa81/Friv-Desktop/actions)-->
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ThiagoSousa81/Friv-Desktop)](https://github.com/ThiagoSousa81/Friv-Desktop/releases)
 [![GitHub](https://img.shields.io/github/license/ThiagoSousa81/Friv-Desktop)](https://github.com/ThiagoSousa81/Friv-Desktop/blob/main/LICENSE)
 <!--[![GitHub repo size](https://img.shields.io/github/repo-size/ThiagoSousa81/Friv-Desktop)](https://github.com/ThiagoSousa81/Friv-Desktop)-->
